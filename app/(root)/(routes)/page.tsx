@@ -1,6 +1,5 @@
 'use client';
 
-import Modal from '@/components/ui/modal';
 import { useStoreModal } from '@/hook/use-store-modal';
 import { useEffect } from 'react';
 
